@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyPOI</string>
+    <string-array name="category_array">
+            <item>Restaurant</item>
+            <item>Museum</item>
+            <item>Cafe</item>
+            <item>Hotel</item>
+            <item>Library</item>
+    </string-array>
+
+</resources>
+
